@@ -32,7 +32,7 @@ For example:
 ```bash
 python3 swaprom.py game.rom game-swapped.rom
 ```
-What It Does
+## What It Does
 
 The utility swaps the two 16 KB halves of the ROM:
 
